@@ -1,0 +1,2 @@
+Codigo_imagenes: 2497, Porcentaje_serrin: 0.3110915147952185%, Porcentaje_agujeros: 0.03309794425314708%
+Codigo_imagenes: 6656, Porcentaje_serrin: 0.3154656924498194%, Porcentaje_agujeros: 0.058934753599656595%
