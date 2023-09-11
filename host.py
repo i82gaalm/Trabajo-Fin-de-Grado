@@ -192,7 +192,7 @@ result_agujero = cv.resize(result_agujero,(450,800))
 result_serrin = cv.resize(result_serrin,(450,800))
 image = cv.resize(image,(450,800))
 
-file = open("results.txt", "a")
+file = open("result/results.txt", "a")
 file.write("Codigo_imagenes: ")
 file.write(str(code))
 file.write(", Porcentaje_serrin: ")
